@@ -4,14 +4,13 @@
 
 ### Languages and tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/-nodejs-323330?style=for-the-badge&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-323330?style=for-the-badge&logo=typescript)
-![expressjs](https://img.shields.io/badge/-expressjs-323330?style=for-the-badge&logo=express)
+![Next](https://img.shields.io/badge/-next-323330?style=for-the-badge&logo=vercel)
+![Redux](https://img.shields.io/badge/-redux-323330?style=for-the-badge&logo=redux)
 ![nestjs](https://img.shields.io/badge/-nestjs-323330?style=for-the-badge&logo=nestjs)
 
 
-### Some experience with db's: Postgresql and mongodb (typeorm and mongoose)
+### Some experience with db mongodb (mongoose)
 
 <hr>
 
