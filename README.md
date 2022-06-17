@@ -5,8 +5,6 @@
 ### Languages and tools:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-323330?style=for-the-badge&logo=typescript)
-![Next](https://img.shields.io/badge/-next-323330?style=for-the-badge&logo=vercel)
-![Redux](https://img.shields.io/badge/-redux-323330?style=for-the-badge&logo=redux)
 ![nestjs](https://img.shields.io/badge/-nestjs-323330?style=for-the-badge&logo=nestjs)
 
 
