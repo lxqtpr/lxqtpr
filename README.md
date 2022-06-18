@@ -6,9 +6,6 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-323330?style=for-the-badge&logo=typescript)
 ![nestjs](https://img.shields.io/badge/-nestjs-323330?style=for-the-badge&logo=nestjs)
-![postgres](https://img.shields.io/badge/-nestjs-323330?style=for-the-badge&logo=postgres)
-
-
 
 <hr>
 
