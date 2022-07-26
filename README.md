@@ -19,4 +19,4 @@
 
 <hr>
 
-### Contact me in Gmail:lxqtpr@gmail.com or by using Telegram: @lxqtpr
+### Contact me in Gmail: lxqtpr@gmail.com or by using Telegram: @lxqtpr
