@@ -22,4 +22,4 @@
 
 <hr>
 
-### Contact me in Gmail: kswbtw@gmail.com or by using Telegram: @kswbtw
+### Contact me in Gmail:lxqtpr@gmail.com or by using Telegram: @lxqtpr
