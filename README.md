@@ -1,4 +1,4 @@
-### I'm a beginner fullstack developer and that's my github page!
+### I'm a beginner backend developer and that's my github page!
 
 <hr>
 
