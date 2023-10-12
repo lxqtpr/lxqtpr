@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hi, I'm Daniil</h1>
-<h4 align="center">A java backend developer, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<div align="center">Hi, I'm Daniil</div>
+<div align="center">A java backend developer, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</div>
 </div>
 
 <div align="center">
