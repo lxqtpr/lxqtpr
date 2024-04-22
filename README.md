@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">Hi, I'm Daniil</div>
-<div align="center">A java backend developer, see my <a href="https://github.com/lxqtpr/lxqtpr/blob/main/MyResume.pdf" target="_blank">resume</a> for more</div>
+<div align="center">A java backend developer, see my <a href="https://github.com/lxqtpr/lxqtpr/blob/main/%D0%93%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%88%D0%B8%D0%BD%20%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB.pdf" target="_blank">resume</a> for more</div>
 </div>
 
 <div align="center">
