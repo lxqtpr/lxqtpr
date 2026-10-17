@@ -24,6 +24,6 @@ Java-модель и отдельный PostgreSQL/JDBC-стенд для про
 
 ## Резюме и контакты
 
-[Текущее резюме (PDF)](https://github.com/lxqtpr/lxqtpr/blob/main/%D0%93%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%88%D0%B8%D0%BD%20%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB.pdf). Обновление резюме будет отдельно.
+[Текущее резюме (PDF)](https://github.com/lxqtpr/lxqtpr/blob/main/%D0%93%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%88%D0%B8%D0%BD%20%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB.pdf). Обновлено 17 октября 2026.
 
 [Telegram](https://t.me/lxqtpr) · [Email](mailto:lxqtpr@gmail.com)
