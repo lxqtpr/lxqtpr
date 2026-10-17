@@ -1,25 +1,29 @@
-<div align="center">
-<div align="center">Hi, I'm Daniil</div>
-<div align="center">A java backend developer, see my <a href="https://github.com/lxqtpr/lxqtpr/blob/main/%D0%93%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%88%D0%B8%D0%BD%20%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB.pdf" target="_blank">resume</a> for more</div>
-</div>
+# Даниил Гадельшин
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+Java backend-разработчик. Занимаюсь надёжностью Java-приложений и инструментами для воспроизведения сбоев и проверки восстановления.
 
------
-<div>
-  <samp>
-    <h2 align="center">You can reach me by:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://t.me/lxqtpr" target="blank"><img align="center"
-         src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white"
-         alt="Daniil" height="30"/></a>
-      <a href="mailto:lxqtpr@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Daniil" height="30"/></a>
-    </p>
-  </samp>
-</div>
+**Java · JUnit 5 · Maven · PostgreSQL · JDBC · Docker Compose**
+
+## Проекты
+
+### [Java Async Replay Lab](https://github.com/lxqtpr/java-async-replay-lab)
+
+Управляемые часы и исполнитель для асинхронной Java-логики: сохранение решений планировщика, повтор исполнения по трассе, адаптер JUnit 5 и сокращение заданного workload с сохранением сигнатуры ошибки.
+
+Локально проверены **46 тестов на JDK 21 и 25**. В reducer-эксперименте сконструированные входы из 18, 54 и 198 событий сокращены до шести; исходные и сокращённые варианты проверены свежим replay.
+
+[Карточка проекта](projects/java-async-replay-lab.md) · [README и запуск](https://github.com/lxqtpr/java-async-replay-lab#readme) · [Сохранённые результаты](https://github.com/lxqtpr/java-async-replay-lab/tree/main/research-results/reducer-2026-10-16)
+
+### [Outbox Recovery Fault Lab](https://github.com/lxqtpr/outbox-recovery-fault-lab)
+
+Java-модель и отдельный PostgreSQL/JDBC-стенд для проверки повторной доставки и восстановления worker-процесса. Заказ и outbox фиксируются одной транзакцией, эффект и запись дедупликации — другой.
+
+**14 групп проверок модели и по 8 интеграционных групп на JDK 21/25.** В PostgreSQL-сценарии потерянного подтверждения получены **две доставки и один бизнес-эффект**.
+
+[Карточка проекта](projects/outbox-recovery-fault-lab.md) · [README и запуск](https://github.com/lxqtpr/outbox-recovery-fault-lab#readme) · [Логи и SQL-проверка](https://github.com/lxqtpr/outbox-recovery-fault-lab/tree/main/research-results/postgres-2026-10-17)
+
+## Резюме и контакты
+
+[Текущее резюме (PDF)](https://github.com/lxqtpr/lxqtpr/blob/main/%D0%93%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%88%D0%B8%D0%BD%20%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB.pdf). Обновление резюме будет отдельно.
+
+[Telegram](https://t.me/lxqtpr) · [Email](mailto:lxqtpr@gmail.com)
