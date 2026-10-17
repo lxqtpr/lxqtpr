@@ -10,7 +10,7 @@ Java backend-разработчик. Занимаюсь надёжностью J
 
 Управляемые часы и исполнитель для асинхронной Java-логики: сохранение решений планировщика, повтор исполнения по трассе, адаптер JUnit 5 и сокращение заданного workload с сохранением сигнатуры ошибки.
 
-Локально проверены **46 тестов на JDK 21 и 25**. В reducer-эксперименте сконструированные входы из 18, 54 и 198 событий сокращены до шести; исходные и сокращённые варианты проверены свежим replay.
+**CI прошёл на JDK 17/21:** тесты, replay, corpus и reducer — [запуск](https://github.com/lxqtpr/java-async-replay-lab/actions/runs/39054600394). Локально проверены 46 тестов на JDK 21/25. В reducer-эксперименте сконструированные входы из 18, 54 и 198 событий сокращены до шести; исходные и сокращённые варианты проверены свежим replay.
 
 [Карточка проекта](projects/java-async-replay-lab.md) · [README и запуск](https://github.com/lxqtpr/java-async-replay-lab#readme) · [Сохранённые результаты](https://github.com/lxqtpr/java-async-replay-lab/tree/main/research-results/reducer-2026-10-16)
 
@@ -18,7 +18,7 @@ Java backend-разработчик. Занимаюсь надёжностью J
 
 Java-модель и отдельный PostgreSQL/JDBC-стенд для проверки повторной доставки и восстановления worker-процесса. Заказ и outbox фиксируются одной транзакцией, эффект и запись дедупликации — другой.
 
-**14 групп проверок модели и по 8 интеграционных групп на JDK 21/25.** В PostgreSQL-сценарии потерянного подтверждения получены **две доставки и один бизнес-эффект**.
+**CI модели прошёл на JDK 17/21** — [запуск](https://github.com/lxqtpr/outbox-recovery-fault-lab/actions/runs/39054601432). PostgreSQL/JDBC проверен локально: по 8 интеграционных групп на JDK 21/25. В PostgreSQL-сценарии потерянного подтверждения получены **две доставки и один бизнес-эффект**.
 
 [Карточка проекта](projects/outbox-recovery-fault-lab.md) · [README и запуск](https://github.com/lxqtpr/outbox-recovery-fault-lab#readme) · [Логи и SQL-проверка](https://github.com/lxqtpr/outbox-recovery-fault-lab/tree/main/research-results/postgres-2026-10-17)
 
